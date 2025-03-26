@@ -1,7 +1,6 @@
 /**
  *  iframe版全局配置(业哥二次开发版)
  */
-
 layui.define(['laytpl', 'layer', 'element', 'util'], function (exports) {
     exports('setter', {
         container: 'LAY_app' //容器ID
